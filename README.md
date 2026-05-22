@@ -10,17 +10,11 @@
 
 ## 👨‍💻 About Me
 
-```txt
-> Booting developer profile...
-> Loading ambitions...
-> Status: READY 🚀
-```
-
-🎓 I'm **Davi**, an IT student at a public university in Brazil.
-💡 I have a strong passion for technology and software development.
-🌎 My goal is to create innovative solutions that can positively impact the world.
-📚 Always learning new technologies and improving my programming skills.
-⚡ Focused on growth, consistency, and building meaningful projects.
+ I'm **Davi**, an IT student at a public university in Brazil.
+ I have a strong passion for technology and software development.
+ My goal is to create innovative solutions that can positively impact the world.
+ Always learning new technologies and improving my programming skills.
+ Focused on growth, consistency, and building meaningful projects.
 
 ---
 
