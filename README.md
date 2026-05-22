@@ -36,19 +36,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=davi-ruan-alves&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-ruan-alves&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
