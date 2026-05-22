@@ -22,7 +22,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,php,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=java,html,css,js,php,mysql" />
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 
 </div>
 
