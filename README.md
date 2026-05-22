@@ -32,18 +32,6 @@
 
 </div>
 
-<br>
-
-<div align="center">
-
-## 🛠️ Technologies
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=c,java,js,html,css,git,github,mysql" />
-
-</div>
-
 </div>
 
 ---
