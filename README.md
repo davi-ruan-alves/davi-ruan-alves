@@ -74,15 +74,6 @@ public class App {
 
 ---
 
-## 🎯 Goals
-
-* 🚀 Become a professional software developer
-* 🌎 Build technology that impacts people positively
-* 📚 Keep evolving every day
-* 💡 Create innovative projects and solutions
-
----
-
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
