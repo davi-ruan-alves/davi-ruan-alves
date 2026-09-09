@@ -95,7 +95,6 @@ Portfólio web desenvolvido para apresentação de projetos, informações profi
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
 
 </div>
 
