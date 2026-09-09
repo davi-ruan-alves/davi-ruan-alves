@@ -58,23 +58,40 @@
 
 ---
 
-## 💻 Developer Mindset
+## 🚀 Projetos
 
-```java
-public class App {
-    public static void main(String[] args) {
+### 🧠 [BrainMaps](https://github.com/davi-ruan-alves/brainmaps)
 
-        while(true){
-            learn();
-            code();
-            improve();
-        }
+**TCC · PHP**
 
-    }
-}
-```
+Sistema desenvolvido como projeto de conclusão de curso, com foco em desenvolvimento web e aplicação prática de conceitos de engenharia de software.
+
+**Destaques:** desenvolvimento web · organização de projeto · trabalho em equipe
 
 ---
+
+### 🎟️ [VendaIngressos](https://github.com/davi-ruan-alves/VendaIngressos)
+
+**Java · POO**
+
+Sistema de gerenciamento de venda de ingressos, desenvolvido aplicando conceitos de Programação Orientada a Objetos.
+
+**Padrões/Princípios:** encapsulamento · separação de responsabilidades
+
+**Benefícios:** código mais organizado, manutenção simplificada e maior facilidade de evolução.
+
+---
+
+### 💻 [Portfólio](https://github.com/davi-ruan-alves/portfolio)
+
+**HTML · CSS · JavaScript · DOM**
+
+Portfólio web desenvolvido para apresentação de projetos, informações profissionais e conhecimentos técnicos.
+
+**Destaques:** manipulação do DOM · JavaScript · estrutura semântica · design responsivo
+
+**Benefícios:** interatividade, organização do código e facilidade de manutenção.
+
 
 <div align="center">
 
