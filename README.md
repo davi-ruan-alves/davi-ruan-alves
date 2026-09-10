@@ -58,39 +58,40 @@
 
 ---
 
-## 🚀 Projetos
+## 🚀 Projects
 
 ### 🧠 [BrainMaps](https://github.com/davi-ruan-alves/brainmaps)
 
 **TCC · PHP**
 
-Sistema desenvolvido como projeto de conclusão de curso, com foco em desenvolvimento web e aplicação prática de conceitos de engenharia de software.
+System developed as a final graduation project, focused on web development and the practical application of software engineering concepts.
 
-**Destaques:** desenvolvimento web · organização de projeto · trabalho em equipe
+**Highlights:** web development · project organization · teamwork
 
 ---
 
 ### 🎟️ [VendaIngressos](https://github.com/davi-ruan-alves/VendaIngressos)
 
-**Java · POO**
+**Java · OOP**
 
-Sistema de gerenciamento de venda de ingressos, desenvolvido aplicando conceitos de Programação Orientada a Objetos.
+Ticket management system developed using Object-Oriented Programming concepts.
 
-**Padrões/Princípios:** encapsulamento · separação de responsabilidades
+**Patterns/Principles:** encapsulation · separation of responsibilities
 
-**Benefícios:** código mais organizado, manutenção simplificada e maior facilidade de evolução.
+**Benefits:** better code organization, easier maintenance, and greater scalability.
 
 ---
 
-### 💻 [Portfólio](https://github.com/davi-ruan-alves/portfolio)
+### 💻 [Portfolio](https://github.com/davi-ruan-alves/portfolio)
 
 **HTML · CSS · JavaScript · DOM**
 
-Portfólio web desenvolvido para apresentação de projetos, informações profissionais e conhecimentos técnicos.
+Web portfolio developed to showcase projects, professional information, and technical skills.
 
-**Destaques:** manipulação do DOM · JavaScript · estrutura semântica · design responsivo
+**Highlights:** DOM manipulation · JavaScript · semantic HTML · responsive design
 
-**Benefícios:** interatividade, organização do código e facilidade de manutenção.
+**Benefits:** interactivity, organized code, and easier maintenance.
+
 
 
 <div align="center">
