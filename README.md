@@ -58,7 +58,41 @@
 
 ---
 
+# Hello World, I'm Davi 🌎
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Davi**, an IT student at a public university in Brazil.
+I have a strong passion for technology and software development.
+My goal is to create innovative solutions that can positively impact the world.
+Always learning new technologies and improving my programming skills.
+Focused on growth, consistency, and building meaningful projects.
+
+---
+
+## 🚀 Tech Stack
+
+---
+
+## 🌐 Connect With Me
+
+---
+
 ## 🚀 Projects
+
+### 🍒 [CerejaOPS](https://github.com/CerejaOPS)
+
+**Java · Spring Boot · Clean Architecture**
+
+Robust backend system engineered with a strict focus on architectural best practices and enterprise-level patterns. Built to demonstrate high scalability, decoupled logic, and modern development workflows.
+
+**Highlights:** Clean Architecture / Hexagonal Architecture · Spring Boot · GitHub Actions (CI/CD) · RESTful API Design · Domain-Driven Layer Separation
+
+**Benefits:** Highly decoupled business rules, automated testing and deployment pipelines via CI/CD, excellent code testability, and a scalable structure prepared for continuous integration and future maintenance.
+
+---
 
 ### 🧠 [BrainMaps](https://github.com/davi-ruan-alves/brainmaps)
 
@@ -67,18 +101,6 @@
 System developed as a final graduation project, focused on web development and the practical application of software engineering concepts.
 
 **Highlights:** web development · project organization · teamwork
-
----
-
-### 🎟️ [VendaIngressos](https://github.com/davi-ruan-alves/VendaIngressos)
-
-**Java · OOP**
-
-Ticket management system developed using Object-Oriented Programming concepts.
-
-**Patterns/Principles:** encapsulation · separation of responsibilities
-
-**Benefits:** better code organization, easier maintenance, and greater scalability.
 
 ---
 
@@ -92,10 +114,6 @@ Web portfolio developed to showcase projects, professional information, and tech
 
 **Benefits:** interactivity, organized code, and easier maintenance.
 
-
-
 <div align="center">
 
-
 </div>
-
